@@ -38,6 +38,11 @@
 		</Unit>
 		<Unit filename="2BbutinC.c">
 			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="3AbutinC.c">
+			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />
 	</Project>
